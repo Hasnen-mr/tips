@@ -1,1 +1,25 @@
-{"message":"success","data":[{"latitude":"24.531445","longitude":"72.733360","name":"How to Reach Mount Abu","url":"https://cdn.pixabay.com/photo/2016/01/19/15/48/luggage-1149289_960_720.jpg","tips":[{"url":"https://cdn.pixabay.com/photo/2015/10/18/18/17/aircraft-994943_960_720.jpg","message":" BY AIR \n\n► Udaipur Airport serves as the nearest airport to Mount Abu. Daily direct flights from Jaipur, Ahmedabad, Delhi and Mumbai are available till Udaipur. \n► Travellers can hire cabs or taxis to cover a distance of around 190 km."},{"url":"https://cdn.pixabay.com/photo/2018/02/21/10/16/train-3169964_960_720.jpg","message":" BY RAIL  \n\n ► Abu Road railway station, located around 25 km away, serves the hill town of Mount Abu. Good number of trains connect Mount Abu with major Indian cities. \n► From the railway station, travellers can opt for state transport service or take a private taxi to reach Mount Abu."},{"url":"https://cdn.pixabay.com/photo/2014/07/12/14/55/bus-stop-391242_960_720.jpg","message":" BY ROAD  \n\n► Buses run by Rajasthan State Road Transport Corporation (RSRTC) along with some private operators link Mount Abu with prominent neighbouring cities like Jaipur (480 km), Udaipur (165 km) and Jaisalmer (442 km). Those driving on their own can take the well-maintained Highway."}]}]}
+{
+  "message": "success",
+  "data": [
+    {
+      "latitude": "24.531445",
+      "longitude": "72.733360",
+      "name": "How to Reach Mount Abu",
+      "url": "https://cdn.pixabay.com/photo/2016/01/19/15/48/luggage-1149289_960_720.jpg",
+      "tips": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2015/10/18/18/17/aircraft-994943_960_720.jpg",
+          "message": " BY AIR \n\n► Udaipur Airport serves as the nearest airport to Mount Abu. Daily direct flights from Jaipur, Ahmedabad, Delhi and Mumbai are available till Udaipur. \n► Travellers can hire cabs or taxis to cover a distance of around 190 km."
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2018/02/21/10/16/train-3169964_960_720.jpg",
+          "message": " BY RAIL  \n\n ► Abu Road railway station, located around 25 km away, serves the hill town of Mount Abu. Good number of trains connect Mount Abu with major Indian cities. \n► From the railway station, travellers can opt for state transport service or take a private taxi to reach Mount Abu."
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2014/07/12/14/55/bus-stop-391242_960_720.jpg",
+          "message": " BY ROAD  \n\n► Buses run by Rajasthan State Road Transport Corporation (RSRTC) along with some private operators link Mount Abu with prominent neighbouring cities like Jaipur (480 km), Udaipur (165 km) and Jaisalmer (442 km). Those driving on their own can take the well-maintained Highway."
+        }
+      ]
+    }
+  ]
+}
